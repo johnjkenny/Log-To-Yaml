@@ -1,2 +1,2 @@
-# Project Name Holder
-Project description holder
+# Log-To-Yaml
+Converts log entries to entries in a yaml file
