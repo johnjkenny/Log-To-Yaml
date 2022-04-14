@@ -134,3 +134,4 @@ dmypy.json
 /lib64
 /share
 pyvenv.cfg
+test.yaml
